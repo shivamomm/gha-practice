@@ -9,7 +9,7 @@ app = Flask(__name__)
 def hello_world():
     return render_template('index.html')
     return none
-    if go
+    if goto
 
 
 @app.route('/health')
