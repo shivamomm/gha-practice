@@ -1,4 +1,5 @@
 #This code is form https://github.com/LondheShubham153/flask-app-ecs/blob/main/app.py
+#Running again due to intial syntax error in lint.yml file
 from flask import Flask, render_template
 app = Flask(__name__)
 
