@@ -1,5 +1,6 @@
 #This code is form https://github.com/LondheShubham153/flask-app-ecs/blob/main/app.py
 from flask import Flask, render_template
+
 app = Flask(__name__)
 
 
